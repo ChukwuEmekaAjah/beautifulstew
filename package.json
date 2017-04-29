@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "beautifulstew",
+        "scope": null,
+        "escapedName": "beautifulstew",
+        "name": "beautifulstew",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Ajah Chukwuemeka"
+    ]
+  ],
+  "_from": "beautifulstew@latest",
+  "_id": "beautifulstew@1.1.4",
+  "_inCache": true,
+  "_location": "/beautifulstew",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/beautifulstew-1.1.4.tgz_1486647110635_0.05613238294608891"
+  },
+  "_npmUser": {
+    "name": "chukwuemekaajah",
+    "email": "talk2ajah@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "beautifulstew",
+    "scope": null,
+    "escapedName": "beautifulstew",
+    "name": "beautifulstew",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/beautifulstew/-/beautifulstew-1.1.4.tgz",
+  "_shasum": "c9f0258fcf273f5d500374daadde553444af1238",
+  "_shrinkwrap": null,
+  "_spec": "beautifulstew",
+  "_where": "C:\\Users\\Ajah Chukwuemeka",
+  "author": {
+    "name": "ajah chukwuemeka",
+    "url": "https://github.com/chukwuemekaajah"
+  },
+  "dependencies": {},
+  "description": "A simple web scraping tool built for developers that can be utilized on both the client and server.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c9f0258fcf273f5d500374daadde553444af1238",
+    "tarball": "https://registry.npmjs.org/beautifulstew/-/beautifulstew-1.1.4.tgz"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "web scraping",
+    "crawling",
+    "scraper",
+    "http raw output",
+    "chukwuemekaajah"
+  ],
+  "main": "beautiful.js",
+  "maintainers": [
+    {
+      "name": "chukwuemekaajah",
+      "email": "talk2ajah@gmail.com"
+    }
+  ],
+  "name": "beautifulstew",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+   "version": "1.1.4"
+}
